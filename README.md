@@ -8,6 +8,8 @@ I hope I can use my knowledge to the fullest for the development of technology i
 My Skill are Web Developtment, Machine Learning, Android Software Developtment, Game Developtment, and Office.
 Programming language that i can use are Python, PHP, Golang, C++, Java, and Javascript.
 
+Find me here!: https://linktr.ee/fikri0o0
+
 <!---
 Fikri645/Fikri645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
