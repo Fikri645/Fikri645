@@ -1,12 +1,4 @@
-- 👋 Hi, My name is Fikri Wahidin. I come from Banjar Regency, in the province of South Kalimantan. Now I'm Studying at Telkom University Bandung. 
-I decided to continue my undergraduate education at Telkom University with the Informatics Study Program as the first choice. 
-I chose the Informatics Study Program due to continuing my major in high school. 
-I am very interested in Programming, especially Machine Learning. 
-I hope to improve my computer skills, and troubleshooting problems that occur. 
-I hope I can use my knowledge to the fullest for the development of technology in Indonesia.
-
-My Skill are Web Developtment, Machine Learning, Android Software Developtment, Game Developtment, and Office.
-Programming language that i can use are Python, PHP, Golang, C++, Java, and Javascript.
+- 👋 Hello, I am Muhammad Fikri Wahidin, a graduate of Informatics focusing in software engineering and machine learning. With an educational background at SMK Telkom Banjarbaru and Telkom University, I have a strong foundation in programming, especially machine learning, data analysis, web development, and software development. Let's collaborate to build a more inclusive and impactful technological future.
 
 Find me here!: https://linktr.ee/fikri0o0
 
