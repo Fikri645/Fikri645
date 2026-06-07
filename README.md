@@ -31,7 +31,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-**🤖 Deep Learning & LLM**
+**🤖 AI & Deep Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -43,16 +43,16 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=for-the-badge)
 ![BERT](https://img.shields.io/badge/BERT%20%2F%20IndoRoBERTa-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**🗣️ NLP & Embeddings**
-
 ![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![sentence-transformers](https://img.shields.io/badge/sentence--transformers-FF9900?style=for-the-badge)
 ![fastembed](https://img.shields.io/badge/fastembed-3B82F6?style=for-the-badge)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![IBM Granite](https://img.shields.io/badge/IBM%20Granite%20Embedding-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![IBM Granite](https://img.shields.io/badge/IBM%20Granite-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2%20Transfer%20Learning-FF6F00?style=for-the-badge)
 
-**📊 Classical ML**
+**📊 Machine Learning**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
@@ -63,19 +63,10 @@
 ![EconML](https://img.shields.io/badge/EconML%20CausalForest-005C84?style=for-the-badge)
 ![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn%20%2F%20SMOTE-7B2D8B?style=for-the-badge)
 ![PyG](https://img.shields.io/badge/PyTorch%20Geometric-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**📈 Time Series**
-
 ![Chronos](https://img.shields.io/badge/Amazon%20Chronos--2-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![mlforecast](https://img.shields.io/badge/mlforecast-0066CC?style=for-the-badge)
 ![statsforecast](https://img.shields.io/badge/statsforecast-3399FF?style=for-the-badge)
 ![Prophet](https://img.shields.io/badge/Prophet-0066FF?style=for-the-badge)
-
-**👁️ Computer Vision**
-
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MobileNetV2](https://img.shields.io/badge/MobileNetV2%20Transfer%20Learning-FF6F00?style=for-the-badge)
 
 **🗂️ Data & Visualization**
 
@@ -87,14 +78,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**🗄️ Databases & Storage**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
-
-**⚙️ MLOps & Deployment**
+**⚙️ MLOps & Infrastructure**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
@@ -104,8 +88,12 @@
 ![Evidently](https://img.shields.io/badge/Evidently%20AI-2D6A4F?style=for-the-badge)
 ![Ray Tune](https://img.shields.io/badge/Ray%20Tune-028CF0?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
-**🌐 Web & Other**
+**🌐 Web & Tools**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -115,9 +103,6 @@
 ![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**🔧 Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
