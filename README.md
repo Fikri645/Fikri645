@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Muhammad+Fikri+Wahidin+%F0%9F%91%8B;ML+Engineer+%7C+Data+Scientist;LLM+Fine-Tuning+%E2%80%A2+Causal+Inference+%E2%80%A2+MLOps;7+live+demos+on+Hugging+Face+%F0%9F%A4%97)](https://huggingface.co/fikri0o0)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Muhammad+Fikri+Wahidin+%F0%9F%91%8B;ML+Engineer+%7C+Data+Scientist)](https://huggingface.co/fikri0o0)
 
 <img src="https://komarev.com/ghpvc/?username=Fikri645&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
