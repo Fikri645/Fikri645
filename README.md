@@ -26,24 +26,48 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 **🤖 Deep Learning & LLM**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
-![PEFT](https://img.shields.io/badge/PEFT%20%2F%20QLoRA-8A2BE2?style=for-the-badge)
-![TRL](https://img.shields.io/badge/TRL%20%2F%20SFTTrainer-6236FF?style=for-the-badge)
+![PEFT / QLoRA](https://img.shields.io/badge/PEFT%20%2F%20QLoRA%20%2F%20DoRA-8A2BE2?style=for-the-badge)
+![TRL](https://img.shields.io/badge/TRL%20SFTTrainer-6236FF?style=for-the-badge)
 ![bitsandbytes](https://img.shields.io/badge/bitsandbytes-FF6F61?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT%20%2F%20IndoRoBERTa-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**📊 Classical ML & Data Science**
+**📊 Classical ML**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 ![LightGBM](https://img.shields.io/badge/LightGBM-9cbb00?style=for-the-badge)
-![EconML](https://img.shields.io/badge/EconML%20%2F%20CausalForest-005C84?style=for-the-badge)
-![Prophet](https://img.shields.io/badge/Prophet-0066FF?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
+![Optuna](https://img.shields.io/badge/Optuna-3B4EFF?style=for-the-badge)
 ![SHAP](https://img.shields.io/badge/SHAP-FF0000?style=for-the-badge)
+![EconML](https://img.shields.io/badge/EconML%20CausalForest-005C84?style=for-the-badge)
+![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn%20%2F%20SMOTE-7B2D8B?style=for-the-badge)
+![PyG](https://img.shields.io/badge/PyTorch%20Geometric-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**📈 Time Series**
+
+![Chronos](https://img.shields.io/badge/Amazon%20Chronos--2-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![mlforecast](https://img.shields.io/badge/mlforecast-0066CC?style=for-the-badge)
+![statsforecast](https://img.shields.io/badge/statsforecast-3399FF?style=for-the-badge)
+![Prophet](https://img.shields.io/badge/Prophet-0066FF?style=for-the-badge)
+
+**👁️ Computer Vision**
+
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2%20Transfer%20Learning-FF6F00?style=for-the-badge)
 
 **🗂️ Data & Visualization**
 
@@ -53,6 +77,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **⚙️ MLOps & Deployment**
 
@@ -60,18 +85,27 @@
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Evidently](https://img.shields.io/badge/Evidently%20AI-2D6A4F?style=for-the-badge)
+![Ray Tune](https://img.shields.io/badge/Ray%20Tune-028CF0?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**🌐 Web**
+**🌐 Web & Other**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 **🔧 Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS%20Eval-6B21A8?style=for-the-badge)
 
 ---
 
@@ -81,7 +115,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fikri645&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fikri645&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fikri645&theme=tokyonight" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fikri645&theme=tokyonight" height="180em"/>
 
 </div>
 
@@ -92,12 +131,12 @@
 | Project | Description | Demo |
 |---------|-------------|------|
 | 🏷️ **LLM Fine-Tuning — Indo Transaction Extraction** | QLoRA/DoRA fine-tuned Qwen2.5-3B, Gemma-4, Phi-3.5 for Indonesian SMS → structured JSON. F1 ≥ 0.98. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/indo-transaction-extraction) |
-| 🛡️ **Real-Time Credit Card Fraud Detection** | XGBoost + LightGBM ensemble with SMOTE. 99.8% ROC-AUC, real-time FastAPI scoring. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/fraud-detection) |
-| 🔬 **Causal Inference & A/B Testing** | CausalForestDML on Hillstrom data — CATE estimation, uplift modeling, treatment segmentation. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/ab-testing-causal) |
-| 🎬 **Movie Recommendation System** | Collaborative + content-based hybrid recommender with live Gradio demo. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/movie-recsys) |
-| 📉 **Customer Churn Prediction** | Gradient boosting + SHAP explainability. Identifies at-risk customers with actionable insights. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/churn-prediction) |
-| 📈 **Demand Forecasting** | Time-series forecasting (Prophet) for supply chain optimization. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/demand-forecasting) |
-| 🤖 **Philosopher Chat** | LLM chatbot that debates as Nietzsche, Russell, Camus — multi-turn memory, persona prompting. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/philosopher-chat) |
+| 🛡️ **Real-Time Credit Card Fraud Detection** | LightGBM + GraphSAGE GNN + Autoencoder with SHAP, PSI drift monitoring, FastAPI real-time scoring. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/fraud-detection) |
+| 🔬 **Causal Inference & A/B Testing** | CausalForestDML + mSPRT + Bayesian + CUPED on Hillstrom data. Full experiment lifecycle. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/ab-testing-causal) |
+| 🎬 **Movie Recommendation System** | Two-Tower retrieval + LightGBM LambdaRank two-stage pipeline. Temporal split evaluation. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/movie-recsys) |
+| 📉 **Customer Churn Prediction** | XGBoost + Optuna HPO + SHAP + profit-optimized thresholding + Evidently drift monitoring. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/churn-prediction) |
+| 📈 **Retail Demand Forecasting** | Amazon Chronos-2 fine-tuning + LightGBM ensemble. 8-model comparison, RMSLE 0.161. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/demand-forecasting) |
+| 🤖 **Philosopher Chat** | RAG chatbot (LangChain + ChromaDB + BGE Reranker) — debates as Nietzsche, Russell, Camus. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/philosopher-chat) |
 
 ---
 
