@@ -14,7 +14,7 @@
 - 💼 Data Scientist Intern @ **Netmonk / PT Telkom Indonesia** (Nov 2025 – May 2026)
 - 🏆 **Bangkit Academy 2024** Machine Learning Cohort
 - 🤖 Focused on **LLM fine-tuning**, **causal inference**, and production ML systems
-- 🤗 **7 live demos** on [Hugging Face Spaces](https://huggingface.co/fikri0o0)
+- 🤗 **9 live demos** on [Hugging Face Spaces](https://huggingface.co/fikri0o0)
 - 🌐 Portfolio: [fikriwahidin.vercel.app](https://fikriwahidin.vercel.app/)
 - 📫 Find me: [linktr.ee/fikri0o0](https://linktr.ee/fikri0o0)
 
@@ -132,6 +132,8 @@
 
 | Project | Description | Demo |
 |---------|-------------|------|
+| 🇮🇩 **Indonesian NLP Fine-Tuning Bake-Off** | Pre-registered 6-arm benchmark — IndoBERT (2020) vs **mmBERT** (2025) vs **SahabatAI-9B QLoRA** on SmSA + NusaX + HoASA. 75 runs; H1 falsified, PEFT > full FT at 1.1% params. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/indo-sentiment-bakeoff) |
+| 💳 **Credit Default Scoring** | Home Credit 2024 Gini-stability; focal-loss LightGBM vs CatBoost vs FT-Transformer; SHAP + DiCE, Fairlearn, isotonic calibration, Cox PH survival. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/credit-scoring) |
 | 🏷️ **LLM Fine-Tuning — Indo Transaction Extraction** | QLoRA/DoRA fine-tuned Qwen2.5-3B, Gemma-4, Phi-3.5 for Indonesian SMS → structured JSON. F1 ≥ 0.98. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/indo-transaction-extraction) |
 | 🛡️ **Real-Time Credit Card Fraud Detection** | LightGBM + GraphSAGE GNN + Autoencoder with SHAP, PSI drift monitoring, FastAPI real-time scoring. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/fraud-detection) |
 | 🔬 **Causal Inference & A/B Testing** | CausalForestDML + mSPRT + Bayesian + CUPED on Hillstrom data. Full experiment lifecycle. | [🤗 Space](https://huggingface.co/spaces/fikri0o0/ab-testing-causal) |
